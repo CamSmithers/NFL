@@ -18,3 +18,16 @@
 - [ ] Machine Learning & Deep Learning
 - [ ] Interactive Dashboard Using Shiny Apps
 
+## Task By File in Repository
+### Data Cleaning
+Data To Be Cleaned
+- [x] Team Stats
+- [ ] Player Offense (**in progress**)
+  - [ ] Running Backs
+  - [ ] Quarter Backs
+  - [ ] Wide Receivers (Including Tight Ends)
+- [ ] Player Defense
+- [ ] Advanced Metrics
+  - [ ] Defense
+  - [ ] Passing
+  - [ ] Rushing
