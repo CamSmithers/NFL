@@ -12,6 +12,7 @@
 
 ## Task List
 - [x] Scraping Data from Internet
+  - [ ] Parse Table for Game Outcome (**high priority**)
 - [ ] Cleaning Data Prior to Analysis
 - [ ] Basic Statistical Analysis
 - [ ] Data Visualizations
