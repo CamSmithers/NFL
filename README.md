@@ -22,6 +22,7 @@
 ## Task By File in Repository
 ### General
 - [ ] Scrape data for the 2025 NFL season.
+- [ ] Think about the type of visualizations you would like to have.
 
 ### Data Cleaning
 Data To Be Cleaned
