@@ -2,5 +2,8 @@ Data/
 Documentation/
 Practice_Parse.ipynb
 Parsing_Script.py
+chromedriver
+chromedriver-mac-arm64/
+chromedriver-mac-arm64.zip
 .DS_Store
 .Rhistory
