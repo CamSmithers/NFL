@@ -7,13 +7,16 @@
 * NFL Parsing HTML.ipynb
   * This file goes through the webpages downloaded as HTML files, gets the data that I need, and saves the tables (or data frames) as CSV files.
 * Function Writing.py
+  * This file will hold custom functions that I may create. Not sure if I'll make any or those in pandas and numpy will suffice.
 * Data Cleaning.ipynb
+  * This file is for all of the basic data cleaning that I will needed. Essentially, cleaning up variable names, filtering rows, creating some aggregregates.
 * Basic Analysis.ipynb
+  * This file is for basic statistical analysis and visualizations. More along the line of descriptive statistics; juxtapose, inferential statistics.
 
 ## Task List
 - [x] Scraping Data from Internet
   - [ ] Parse Table for Game Outcome (**high priority**)
-- [ ] Cleaning Data Prior to Analysis
+- [x] Cleaning Data Prior to Analysis
 - [ ] Basic Statistical Analysis
 - [ ] Data Visualizations
 - [ ] Machine Learning & Deep Learning
