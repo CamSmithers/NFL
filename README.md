@@ -16,9 +16,9 @@
 ## Task List
 - [x] Scraping Data from Internet
 - [x] Cleaning Data Prior to Analysis
-- [ ] Basic Statistical Analysis
-- [ ] Data Visualizations
+- [x] Basic Analysis & Visualizations
 - [ ] Machine Learning & Deep Learning
+- [ ] Dashboard
 
 ## Task By File in Repository
 
@@ -35,9 +35,10 @@ Data To Be Cleaned
   - [x] Rushing
 
 ### Basic Analysis
-- [ ] Tables with Basic Statistics
-- [ ] Visualizations
-  - [ ] Boxplots
-  - [ ] Histograms
-  - [ ] Scatterplots
-  - [ ] Regression Plots
+- [x] Summary Statistics
+- [x] Data Tables
+- [ ] Various Plots
+  - [x] Boxplots
+  - [x] Histograms
+  - [x] Scatterplots
+  - [x] Advanced Plots (Hybrid Plots)
