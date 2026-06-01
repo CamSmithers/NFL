@@ -12,6 +12,8 @@
   * This file is for all of the basic data cleaning that I will needed. Essentially, cleaning up variable names, filtering rows, creating some aggregregates.
 * Basic Analysis.ipynb
   * This file is for basic statistical analysis and visualizations. More along the line of descriptive statistics; juxtapose, inferential statistics.
+* Advanced Analysis
+  * This file is used for inferential statistics and machine learning
 
 ## Task List
 - [x] Scraping Data from Internet
@@ -21,6 +23,9 @@
 - [ ] Dashboard
 
 ## Task By File in Repository
+### BeautifulSoup Scraping
+
+### Selenium Scraping
 
 ### Data Cleaning
 Data To Be Cleaned
@@ -37,7 +42,7 @@ Data To Be Cleaned
 ### Basic Analysis
 - [x] Summary Statistics
 - [x] Data Tables
-- [ ] Various Plots
+- [x] Various Plots
   - [x] Boxplots
   - [x] Histograms
   - [x] Scatterplots
