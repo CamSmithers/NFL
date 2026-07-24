@@ -1,4 +1,4 @@
-# NFL Analytis Repository
+# NFL Analytics Repository
 
 ## Files in Repository
 * NFL Se Scraping.ipynb
